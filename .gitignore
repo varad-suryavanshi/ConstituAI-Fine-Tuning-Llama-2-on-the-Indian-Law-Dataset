@@ -1,0 +1,14 @@
+# Ignore environment and system files
+env_law/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+
+# Optional: ignore model weights if too large
+llama2_Finetuned_Indian_Law/
+
+constitution_qa.json
+constitution_qa_llama2.json
+constitution_qa_llama2_short.json
+
